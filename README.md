@@ -1,4 +1,4 @@
-# 15112TermProject
+# 15-112 Term Project
 
 Author: Leonardo Cervantes
 
