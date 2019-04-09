@@ -728,7 +728,6 @@ class Opponent(Paddle):
         self.ballcX = self.winWidth / 2 + (self.court.smallWidth * netDX)
         self.ballcY = self.winHeight / 2 + (self.court.smallHeight * netDY)
 
-
 class Music(object):
     def __init__(self):
         self.getGameMusic()
